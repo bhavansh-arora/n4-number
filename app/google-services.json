@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "158568481263",
+    "firebase_url": "https://luckywheel-378fd.firebaseio.com",
+    "project_id": "luckywheel-378fd",
+    "storage_bucket": "luckywheel-378fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158568481263:android:08e3169ef7ae1a9913761a",
+        "android_client_info": {
+          "package_name": "com.sugarbaby.luckywheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158568481263-6cbar1knitkeduluc9hoflqplr91m0ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugarbaby.luckywheel",
+            "certificate_hash": "4e4b7fe49b29fb845b1e19a8bd1cc5ad852613a6"
+          }
+        },
+        {
+          "client_id": "158568481263-ohjf2ppmaragai8a97p9dom43cde2pr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugarbaby.luckywheel",
+            "certificate_hash": "152f0a8bed8574f43b9e5988d30ad5043f3ad8f4"
+          }
+        },
+        {
+          "client_id": "158568481263-cjfffvu4vvg8psoo05tltruo9hefc1vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4oJiteFWHBVF2AkFWp5tIQ_OURcpSE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158568481263-cjfffvu4vvg8psoo05tltruo9hefc1vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
